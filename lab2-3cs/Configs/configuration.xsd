@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8"?>
+<xs:schema attributeFormDefault="unqualified" elementFormDefault="qualified" targetNamespace="urn:conf-schema" xmlns:xs="http://www.w3.org/2001/XMLSchema">
+  <xs:element name="config">
+    <xs:complexType>
+      <xs:sequence>
+        <xs:element name="mainFolders">
+          <xs:complexType>
+            <xs:sequence>
+              <xs:element name="source" type="xs:string" />
+              <xs:element name="target" type="xs:string" />
+              <xs:element name="archivated" type="xs:string" />
+              <xs:element name="dearchivated" type="xs:string" />
+            </xs:sequence>
+          </xs:complexType>
+        </xs:element>
+        <xs:element name="mainLogs">
+          <xs:complexType>
+            <xs:sequence>
+              <xs:element name="error" type="xs:string" />
+              <xs:element name="actLog" type="xs:string" />
+            </xs:sequence>
+          </xs:complexType>
+        </xs:element>
+        <xs:element name="cryptoOptions">
+          <xs:complexType>
+            <xs:attribute name="key" type="xs:string" use="required" />
+            <xs:attribute name="initVector" type="xs:string" use="required" />
+          </xs:complexType>
+        </xs:element>
+      </xs:sequence>
+    </xs:complexType>
+  </xs:element>
+</xs:schema>

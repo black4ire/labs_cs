@@ -1,0 +1,13 @@
+﻿Выполняется установка сборки 'C:\Users\user\Desktop\953502\3 sem\C#\ISP\lab2-3cs\Masha-Service\bin\Release\Masha-Service.exe'.
+Затронуты следующие параметры:
+   logtoconsole = 
+   logfile = C:\Users\user\Desktop\953502\3 sem\C#\ISP\lab2-3cs\Masha-Service\bin\Release\Masha-Service.InstallLog
+   assemblypath = C:\Users\user\Desktop\953502\3 sem\C#\ISP\lab2-3cs\Masha-Service\bin\Release\Masha-Service.exe
+Устанавливается служба Masha-Service...
+Служба Masha-Service успешно установлена.
+Создается исходный EventLog Masha-Service в журнале Application...
+Выполняется фиксация сборки 'C:\Users\user\Desktop\953502\3 sem\C#\ISP\lab2-3cs\Masha-Service\bin\Release\Masha-Service.exe'.
+Затронуты следующие параметры:
+   logtoconsole = 
+   logfile = C:\Users\user\Desktop\953502\3 sem\C#\ISP\lab2-3cs\Masha-Service\bin\Release\Masha-Service.InstallLog
+   assemblypath = C:\Users\user\Desktop\953502\3 sem\C#\ISP\lab2-3cs\Masha-Service\bin\Release\Masha-Service.exe

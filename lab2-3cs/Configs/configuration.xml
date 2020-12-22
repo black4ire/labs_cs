@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<config xmlns="urn:conf-schema">
+  <mainFolders>
+    <source>C:\Users\user\Desktop\953502\3 sem\C#\ISP\lab2-3cs\Server\Source</source>
+    <target>C:\Users\user\Desktop\953502\3 sem\C#\ISP\lab2-3cs\Server\Target</target>
+    <archivated>C:\Users\user\Desktop\953502\3 sem\C#\ISP\lab2-3cs\Server\Target\Archivated</archivated>
+	<dearchivated>C:\Users\user\Desktop\953502\3 sem\C#\ISP\lab2-3cs\Server\Source\Dearchivated</dearchivated>
+  </mainFolders>
+  <mainLogs>
+    <error>C:\Users\user\Desktop\953502\3 sem\C#\ISP\lab2-3cs\ErrorLog.txt</error>
+    <actLog>C:\Users\user\Desktop\953502\3 sem\C#\ISP\lab2-3cs\Log.txt</actLog>
+  </mainLogs>
+  <cryptoOptions key="fdb54YTi" initVector="fdb54YTi"/>
+</config>

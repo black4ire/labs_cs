@@ -1,0 +1,16 @@
+{
+  "mainFolders": {
+    "source": "C:\\Users\\user\\Desktop\\953502\\3 sem\\C#\\ISP\\lab2-3cs\\Server\\Source",
+    "target": "C:\\Users\\user\\Desktop\\953502\\3 sem\\C#\\ISP\\lab2-3cs\\Server\\Target",
+    "archivated": "C:\\Users\\user\\Desktop\\953502\\3 sem\\C#\\ISP\\lab2-3cs\\Server\\Target\\Archivated",
+    "dearchivated": "C:\\Users\\user\\Desktop\\953502\\3 sem\\C#\\ISP\\lab2-3cs\\Server\\Source\\Dearchivated"
+  },
+  "mainLogs": {
+    "errorLog": "C:\\Users\\user\\Desktop\\953502\\3 sem\\C#\\ISP\\lab2-3cs\\ErrorLog.txt",
+    "actLog": "C:\\Users\\user\\Desktop\\953502\\3 sem\\C#\\ISP\\lab2-3cs\\Log.txt"
+  },
+  "cryptoOptions": {
+    "key": "fdb54YTi",
+    "initVector": "fdb54YTi"
+  }
+}
