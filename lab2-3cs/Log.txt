@@ -1,10 +1,1 @@
-22.12.2020 10:46:13 файл C:\Users\user\Desktop\953502\3 sem\C#\ISP\lab2-3cs\Server\Target\Archivated\4_1 (1).zip был удален
-22.12.2020 10:46:13 файл C:\Users\user\Desktop\953502\3 sem\C#\ISP\lab2-3cs\Server\Target\Archivated\4_1.zip был удален
-22.12.2020 10:46:13 файл C:\Users\user\Desktop\953502\3 sem\C#\ISP\lab2-3cs\Server\Target\Archivated\4_2 (1).zip был удален
-22.12.2020 10:46:13 файл C:\Users\user\Desktop\953502\3 sem\C#\ISP\lab2-3cs\Server\Target\Archivated\4_2.zip был удален
-22.12.2020 10:46:13 файл C:\Users\user\Desktop\953502\3 sem\C#\ISP\lab2-3cs\Server\Target\Archivated\Kulevich953506.zip был удален
-22.12.2020 10:46:13 файл C:\Users\user\Desktop\953502\3 sem\C#\ISP\lab2-3cs\Server\Target\Archivated\Otchet_po_Laboratornoy_rabote_5_Stelmashuk_953503.zip был удален
-22.12.2020 10:46:13 файл C:\Users\user\Desktop\953502\3 sem\C#\ISP\lab2-3cs\Server\Target\Archivated\реферат_Гресик_953502.zip был удален
-22.12.2020 10:46:13 файл C:\Users\user\Desktop\953502\3 sem\C#\ISP\lab2-3cs\Server\Target\Archivated\Реферат_Массаж.zip был удален
-22.12.2020 10:46:13 файл C:\Users\user\Desktop\953502\3 sem\C#\ISP\lab2-3cs\Server\Target\Archivated\СпецглавыДМ-2020-2021.zip был удален
-22.12.2020 10:46:13 файл C:\Users\user\Desktop\953502\3 sem\C#\ISP\lab2-3cs\Server\Target\Archivated\Таблица вариантов.zip был удален
+
