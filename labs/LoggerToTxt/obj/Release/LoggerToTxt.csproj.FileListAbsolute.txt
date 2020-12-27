@@ -1,0 +1,5 @@
+D:\VS2020\lab2-4cs\LoggerToTxt\bin\Release\LoggerToTxt.dll
+D:\VS2020\lab2-4cs\LoggerToTxt\bin\Release\LoggerToTxt.pdb
+D:\VS2020\lab2-4cs\LoggerToTxt\obj\Release\LoggerToTxt.csproj.CoreCompileInputs.cache
+D:\VS2020\lab2-4cs\LoggerToTxt\obj\Release\LoggerToTxt.dll
+D:\VS2020\lab2-4cs\LoggerToTxt\obj\Release\LoggerToTxt.pdb

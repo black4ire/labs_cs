@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<config xmlns="urn:conf-schema">
+  <mainFolders>
+    <source>D:\VS2020\lab2-4cs\FTP-Servers\Server\Source</source>
+    <target>D:\VS2020\lab2-4cs\FTP-Servers\Server\Target</target>
+    <archivated>D:\VS2020\lab2-4cs\FTP-Servers\Server\Target\Archivated</archivated>
+	<dearchivated>D:\VS2020\lab2-4cs\FTP-Servers\Server\Source\Dearchivated</dearchivated>
+  </mainFolders>
+  <mainLogs>
+    <error>D:\VS2020\lab2-4cs\STW-Service\Logs\ErrorLog.txt</error>
+    <actLog>D:\VS2020\lab2-4cs\STW-Service\Logs\Log.txt</actLog>
+  </mainLogs>
+  <cryptoOptions key="pQ1IS5hq" initVector="pQ1IS5hq"/>
+</config>

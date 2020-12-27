@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<config xmlns="urn:conf-schema">
+  <ModelGenService>
+    <DBconnetion>Data Source=DESKTOP-3J68A79\SQLEXPRESS;Initial Catalog=AdventureWorks2019;Integrated Security=True</DBconnetion>
+    <FTP_path>D:\VS2020\lab2-4cs\FTP-Servers\Data from DB</FTP_path>
+    <LogDBconnection>Data Source=DESKTOP-3J68A79\SQLEXPRESS;Initial Catalog=AppInsights;Integrated Security=True</LogDBconnection>
+    <Seconds>10</Seconds>
+  </ModelGenService>
+</config>

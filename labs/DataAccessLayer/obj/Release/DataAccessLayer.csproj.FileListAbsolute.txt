@@ -1,0 +1,9 @@
+D:\VS2020\lab2-4cs\DataAccessLayer\bin\Release\DataAccessLayer.dll
+D:\VS2020\lab2-4cs\DataAccessLayer\bin\Release\DataAccessLayer.pdb
+D:\VS2020\lab2-4cs\DataAccessLayer\obj\Release\DataAccessLayer.csproj.CoreCompileInputs.cache
+D:\VS2020\lab2-4cs\DataAccessLayer\obj\Release\DataAccessLayer.dll
+D:\VS2020\lab2-4cs\DataAccessLayer\obj\Release\DataAccessLayer.pdb
+D:\VS2020\lab2-4cs\DataAccessLayer\bin\Release\AppInsightsAPI.dll
+D:\VS2020\lab2-4cs\DataAccessLayer\bin\Release\AppInsightsAPI.pdb
+D:\VS2020\lab2-4cs\DataAccessLayer\obj\Release\DataAccessLayer.csproj.CopyComplete
+D:\VS2020\lab2-4cs\DataAccessLayer\obj\Release\DataAccessLayer.csprojAssemblyReference.cache

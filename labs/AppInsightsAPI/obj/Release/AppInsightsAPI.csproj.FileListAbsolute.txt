@@ -1,0 +1,6 @@
+D:\VS2020\lab2-4cs\AppInsightsAPI\bin\Release\AppInsightsAPI.dll
+D:\VS2020\lab2-4cs\AppInsightsAPI\bin\Release\AppInsightsAPI.pdb
+D:\VS2020\lab2-4cs\AppInsightsAPI\obj\Release\AppInsightsAPI.csproj.CoreCompileInputs.cache
+D:\VS2020\lab2-4cs\AppInsightsAPI\obj\Release\AppInsightsAPI.dll
+D:\VS2020\lab2-4cs\AppInsightsAPI\obj\Release\AppInsightsAPI.pdb
+D:\VS2020\lab2-4cs\AppInsightsAPI\obj\Release\AppInsightsAPI.csprojAssemblyReference.cache

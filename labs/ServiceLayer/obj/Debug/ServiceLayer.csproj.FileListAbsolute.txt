@@ -1,0 +1,13 @@
+D:\VS2020\lab2-4cs\ServiceLayer\bin\Debug\ServiceLayer.dll
+D:\VS2020\lab2-4cs\ServiceLayer\bin\Debug\ServiceLayer.pdb
+D:\VS2020\lab2-4cs\ServiceLayer\bin\Debug\AppInsightsAPI.dll
+D:\VS2020\lab2-4cs\ServiceLayer\bin\Debug\DataAccessLayer.dll
+D:\VS2020\lab2-4cs\ServiceLayer\bin\Debug\XmlXsdGenerator.dll
+D:\VS2020\lab2-4cs\ServiceLayer\bin\Debug\AppInsightsAPI.pdb
+D:\VS2020\lab2-4cs\ServiceLayer\bin\Debug\DataAccessLayer.pdb
+D:\VS2020\lab2-4cs\ServiceLayer\bin\Debug\XmlXsdGenerator.pdb
+D:\VS2020\lab2-4cs\ServiceLayer\obj\Debug\ServiceLayer.csprojAssemblyReference.cache
+D:\VS2020\lab2-4cs\ServiceLayer\obj\Debug\ServiceLayer.csproj.CoreCompileInputs.cache
+D:\VS2020\lab2-4cs\ServiceLayer\obj\Debug\ServiceLayer.csproj.CopyComplete
+D:\VS2020\lab2-4cs\ServiceLayer\obj\Debug\ServiceLayer.dll
+D:\VS2020\lab2-4cs\ServiceLayer\obj\Debug\ServiceLayer.pdb

@@ -1,0 +1,9 @@
+D:\VS2020\lab2-4cs\XmlXsdGenerator\bin\Release\XmlXsdGenerator.dll
+D:\VS2020\lab2-4cs\XmlXsdGenerator\bin\Release\XmlXsdGenerator.pdb
+D:\VS2020\lab2-4cs\XmlXsdGenerator\bin\Release\AppInsightsAPI.dll
+D:\VS2020\lab2-4cs\XmlXsdGenerator\bin\Release\AppInsightsAPI.pdb
+D:\VS2020\lab2-4cs\XmlXsdGenerator\obj\Release\XmlXsdGenerator.csproj.CoreCompileInputs.cache
+D:\VS2020\lab2-4cs\XmlXsdGenerator\obj\Release\XmlXsdGenerator.csproj.CopyComplete
+D:\VS2020\lab2-4cs\XmlXsdGenerator\obj\Release\XmlXsdGenerator.dll
+D:\VS2020\lab2-4cs\XmlXsdGenerator\obj\Release\XmlXsdGenerator.pdb
+D:\VS2020\lab2-4cs\XmlXsdGenerator\obj\Release\XmlXsdGenerator.csprojAssemblyReference.cache

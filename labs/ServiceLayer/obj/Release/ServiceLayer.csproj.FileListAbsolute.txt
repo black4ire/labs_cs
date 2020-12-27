@@ -1,0 +1,13 @@
+D:\VS2020\lab2-4cs\ServiceLayer\bin\Release\ServiceLayer.dll
+D:\VS2020\lab2-4cs\ServiceLayer\bin\Release\ServiceLayer.pdb
+D:\VS2020\lab2-4cs\ServiceLayer\bin\Release\AppInsightsAPI.dll
+D:\VS2020\lab2-4cs\ServiceLayer\bin\Release\DataAccessLayer.dll
+D:\VS2020\lab2-4cs\ServiceLayer\bin\Release\XmlXsdGenerator.dll
+D:\VS2020\lab2-4cs\ServiceLayer\bin\Release\AppInsightsAPI.pdb
+D:\VS2020\lab2-4cs\ServiceLayer\bin\Release\DataAccessLayer.pdb
+D:\VS2020\lab2-4cs\ServiceLayer\bin\Release\XmlXsdGenerator.pdb
+D:\VS2020\lab2-4cs\ServiceLayer\obj\Release\ServiceLayer.csproj.CoreCompileInputs.cache
+D:\VS2020\lab2-4cs\ServiceLayer\obj\Release\ServiceLayer.csproj.CopyComplete
+D:\VS2020\lab2-4cs\ServiceLayer\obj\Release\ServiceLayer.dll
+D:\VS2020\lab2-4cs\ServiceLayer\obj\Release\ServiceLayer.pdb
+D:\VS2020\lab2-4cs\ServiceLayer\obj\Release\ServiceLayer.csprojAssemblyReference.cache

@@ -1,0 +1,42 @@
+﻿Выполняется установка сборки 'D:\VS2020\lab2-4cs\FileTransferService\bin\Release\FileTransferService.exe'.
+Затронуты следующие параметры:
+   logtoconsole = 
+   logfile = D:\VS2020\lab2-4cs\FileTransferService\bin\Release\FileTransferService.InstallLog
+   assemblypath = D:\VS2020\lab2-4cs\FileTransferService\bin\Release\FileTransferService.exe
+Устанавливается служба FileTransferService...
+Служба FileTransferService успешно установлена.
+Создается исходный EventLog FileTransferService в журнале Application...
+Выполняется фиксация сборки 'D:\VS2020\lab2-4cs\FileTransferService\bin\Release\FileTransferService.exe'.
+Затронуты следующие параметры:
+   logtoconsole = 
+   logfile = D:\VS2020\lab2-4cs\FileTransferService\bin\Release\FileTransferService.InstallLog
+   assemblypath = D:\VS2020\lab2-4cs\FileTransferService\bin\Release\FileTransferService.exe
+Выполняется удаление сборки 'D:\VS2020\lab2-4cs\FileTransferService\bin\Release\FileTransferService.exe'.
+Затронуты следующие параметры:
+   logtoconsole = 
+   logfile = D:\VS2020\lab2-4cs\FileTransferService\bin\Release\FileTransferService.InstallLog
+   assemblypath = D:\VS2020\lab2-4cs\FileTransferService\bin\Release\FileTransferService.exe
+Выполняется удаление источника EventLog FileTransferService.
+Выполняется удаление службы FileTransferService из системы...
+Служба FileTransferService успешно удалена из системы.
+Выполняется установка сборки 'D:\VS2020\lab2-4cs\FileTransferService\bin\Release\FileTransferService.exe'.
+Затронуты следующие параметры:
+   logtoconsole = 
+   logfile = D:\VS2020\lab2-4cs\FileTransferService\bin\Release\FileTransferService.InstallLog
+   assemblypath = D:\VS2020\lab2-4cs\FileTransferService\bin\Release\FileTransferService.exe
+Устанавливается служба FileTransferService...
+Служба FileTransferService успешно установлена.
+Создается исходный EventLog FileTransferService в журнале Application...
+Выполняется фиксация сборки 'D:\VS2020\lab2-4cs\FileTransferService\bin\Release\FileTransferService.exe'.
+Затронуты следующие параметры:
+   logtoconsole = 
+   logfile = D:\VS2020\lab2-4cs\FileTransferService\bin\Release\FileTransferService.InstallLog
+   assemblypath = D:\VS2020\lab2-4cs\FileTransferService\bin\Release\FileTransferService.exe
+Выполняется удаление сборки 'D:\VS2020\lab2-4cs\FileTransferService\bin\Release\FileTransferService.exe'.
+Затронуты следующие параметры:
+   logtoconsole = 
+   logfile = D:\VS2020\lab2-4cs\FileTransferService\bin\Release\FileTransferService.InstallLog
+   assemblypath = D:\VS2020\lab2-4cs\FileTransferService\bin\Release\FileTransferService.exe
+Выполняется удаление источника EventLog FileTransferService.
+Выполняется удаление службы FileTransferService из системы...
+Служба FileTransferService успешно удалена из системы.

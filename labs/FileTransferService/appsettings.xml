@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<config xmlns="urn:conf-schema">
+  <FTS-settings>
+    <PathToSourceFTP>D:\VS2020\lab2-4cs\FTP-Servers\Data from DB</PathToSourceFTP>
+    <PathToDestinationFTP>D:\VS2020\lab2-4cs\FTP-Servers\Server\Source</PathToDestinationFTP>
+    <LoggerConnectionString>Data Source=.\SQLEXPRESS;Initial Catalog=AppInsights;Integrated Security=True</LoggerConnectionString>
+  </FTS-settings>
+</config>
